@@ -24,3 +24,6 @@ Config :
 
  Run Unit test:
  masuk ke directory utama kemudian ketik vendor/bin/phpunit
+
+ LOGICAL TEST
+- http://localhost:8000/logic
